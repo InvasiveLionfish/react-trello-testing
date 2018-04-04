@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "enzyme-adapter-react-16": "^1.0.1",
+    "netlify-cli": "^1.2.2",
     "react": "^16.0.0",
     "react-dom": "^16.0.0"
   },
